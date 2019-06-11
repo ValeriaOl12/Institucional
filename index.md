@@ -1,14 +1,7 @@
-## Welcome to GitHub Pages
+prueba institucional 
+Aqui podran encontrar diferentes promociones, y diferentes informaciones 
 
-You can use the [editor on GitHub](https://github.com/ValeriaOl12/Institucional/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+<img src="casarural.jpg" alt="c4ddd8411266461e9d92b4eb624914aa" />
 Syntax highlighted code block
 
 # Header 1
