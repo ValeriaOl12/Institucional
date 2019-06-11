@@ -1,30 +1,7 @@
 prueba institucional 
-Aqui podran encontrar diferentes promociones, y diferentes informaciones 
+Aqui podran encontrar diferentes promociones, y diferentes informaciones diarias. 
+<img src="http://allisonzhao.blogspot.com/2016/11/robotics.html">
+Hola! Mucho gusto mi nombre es Rubitot y yo te brindare la informacion que tenemos para el dia hoy, 11 de junio de 2019
+A continuacion te mostrare algunos descuentos y el evanglio del dia 
 
-<img src="casarural.jpg" alt="c4ddd8411266461e9d92b4eb624914aa" />
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ValeriaOl12/Institucional/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
